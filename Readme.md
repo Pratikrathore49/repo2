@@ -109,4 +109,3 @@ batch_flat = batch.reshape(64, -1)           # shape: (64, 784)
 This exact pattern runs millions of times per day in production ML systems.
 
 Run it, share your output, then we go to Lesson 6: Math Operations and Broadcasting — the lesson where NumPy's true speed advantage becomes obvious and you'll never want to write a Python loop for math again.
-<!-- second changes made to learn git advance commands -->
